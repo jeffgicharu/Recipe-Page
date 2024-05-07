@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(0, 0%, 100%);
+    min-height: 100vh;
+    font-family: "Outfit", sans-serif;
+    padding: 2rem;
+}
+
+img {
+    border-radius: 0.5rem;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1.5rem;
+
+}
+
+h1 {
+    margin-bottom: 1rem;
+    font-family: "Young serif", serif;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+.preparation {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: hsl(32, 46%, 93%);
+}
+
+h3 {
+    margin-bottom: 0.5rem;
+    color: hsl(300, 100%, 25%);
+}
+
+.preptime li::marker {
+    color: hsl(300, 100%, 25%);
+}
+
+ul li {
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    margin-bottom: 1rem;
+    color: hsl(32, 79%, 23%);
+    font-family: "Young serif", serif;
+}
+
+.ingredients li::marker {
+    color: hsl(32, 79%, 23%);
+}
+
+hr {
+    margin: 0.5rem 0;
+}
+
+.instructions li::marker {
+    color: hsl(32, 79%, 23%);
+}
+
+ol li {
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+strong {
+    color: hsl(24, 5%, 18%);
+}
+
+b {
+    color: hsl(32, 79%, 23%);
+}
+
