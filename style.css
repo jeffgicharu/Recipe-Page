@@ -85,3 +85,17 @@ b {
     color: hsl(32, 79%, 23%);
 }
 
+.item{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.item p{
+    width: 5rem;
+    margin-left: 1rem;
+}
+
+.amount{
+    color: hsl(32, 79%, 23%);
+    font-weight: 700;
+}
