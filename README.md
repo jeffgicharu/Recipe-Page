@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [This is the GitHub of my solution](https://github.com/jeffgicharu/Social-Links-Profile)
+- Solution URL: [This is the GitHub of my solution](https://github.com/jeffgicharu/Recipe-Page)
 
 -Live Site URL: [This is the live site of my solution](https://jeffgicharu.github.io/Social-Links-Profile/)
 
